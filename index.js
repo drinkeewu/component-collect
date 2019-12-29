@@ -1,1 +1,1 @@
-export {default as PageTable} from './packages/page-table.vue'
+export {default as PageTable} from './packages/page-table'
