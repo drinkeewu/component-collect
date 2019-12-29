@@ -85,7 +85,7 @@ import {
   Table, TableColumn, Pagination, Loading,
 } from 'element-ui';
 import Flex from '../flex';
-import { tableColMinWidth } from '../utils';
+import { tableColMinWidth } from '../../utils';
 
 Vue.use(Loading.directive);
 Vue.prototype.$loading = Loading.service;
