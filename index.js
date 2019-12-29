@@ -1,0 +1,1 @@
+export {default as PageTable} from './packages/page-table'
