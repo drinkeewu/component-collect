@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drinkeewu/component-collect.git"
+    "url": "git+https://github.com/drinkeewu/dr-component.git"
   },
   "keywords": [
     "component",
@@ -18,9 +18,9 @@
   "author": "drinkeewu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drinkeewu/component-collect/issues"
+    "url": "https://github.com/drinkeewu/dr-component/issues"
   },
-  "homepage": "https://github.com/drinkeewu/component-collect#readme",
+  "homepage": "https://github.com/drinkeewu/dr-component#readme",
   "dependencies": {
     "element-ui": "^2.13.0",
     "vue": "^2.6.11"
