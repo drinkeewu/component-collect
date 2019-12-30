@@ -86,7 +86,6 @@ import {
 } from 'element-ui';
 import Flex from '../flex';
 import { tableColMinWidth } from '../../utils';
-import 'element-ui/lib/theme-chalk/index.css'
 
 Vue.use(Loading.directive);
 Vue.prototype.$loading = Loading.service;
