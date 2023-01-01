@@ -30,7 +30,7 @@
     "commitizen": "^4.0.3",
     "cz-conventional-changelog": "^3.0.2",
     "node-sass": "^4.13.0",
-    "sass-loader": "^8.0.0"
+    "sass-loader": "^13.2.0"
   },
   "config": {
     "commitizen": {
